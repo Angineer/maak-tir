@@ -10,12 +10,16 @@
             <table class="twoColumn">
                 <tr>
                     <td class="leftColumn">
-                        <h4>Places</h4>
-                        {% assign sorted_places = site.places | sort:"title" %}
+                        {% assign sorted_places = site.places | group_by: "region" | sort: "title" %}
                         
-                        {% for place in sorted_places %}
+                        {% for group in sorted_places %}
+                            <h4>{{ group.name }}</h4>
+
+                            {% for place in group.items %}
                         
-                            <p><a href="{{ place.url }}">{{ place.title }}</a></p>
+                                <p><a href="{{ place.url }}">{{ place.title }}</a></p>
+
+                            {% endfor %}
                         
                         {% endfor %}
                     </td>
