@@ -1,6 +1,7 @@
 table {
     margin-left: auto;
     margin-right: auto;
+    width: 75%;
 }
 
 td {
@@ -9,6 +10,12 @@ td {
 }
 
 .header {
+    border: 1px solid green;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px 12px;
+    width: fit-content;
 }
 
 .inactive-link {
