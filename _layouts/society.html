@@ -33,6 +33,9 @@
                     </td>
 
                     <td class="rightColumn">
+                        {% if page.title != "Society" %}
+                            <h3>{{page.title}}</h3>
+                        {% endif %}
                         {{ content }}
                     </td>
                 </tr>

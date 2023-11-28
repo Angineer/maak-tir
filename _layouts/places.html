@@ -25,6 +25,9 @@
                     </td>
 
                     <td class="rightColumn">
+                        {% if page.title != "Places" %}
+                            <h3>{{page.title}}</h3>
+                        {% endif %}
                         {{ content }}
                     </td>
                 </tr>
