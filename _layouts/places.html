@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+    {% include head.html %}
+
+    <body>
+        <div class="wrapper">
+            {% include header.html %}
+            
+            <table class="twoColumn">
+                <tr>
+                    <td class="leftColumn">
+                        <h4>Places</h4>
+                        {% assign sorted_places = site.places | sort:"title" %}
+                        
+                        {% for place in sorted_places %}
+                        
+                            <p><a href="{{ place.url }}">{{ place.title }}</a></p>
+                        
+                        {% endfor %}
+                    </td>
+
+                    <td class="rightColumn">
+                        {{ content }}
+                    </td>
+                </tr>
+            </table>
+            
+            {% include footer.html %}
+        </div>
+    </body>
+</html>

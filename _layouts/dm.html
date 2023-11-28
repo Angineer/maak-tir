@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+    {% include head.html %}
+
+    <body>
+        <div class="wrapper">
+            {% include header.html %}
+            
+            <table class="twoColumn">
+                <tr>
+                    <td class="leftColumn">
+                        <h4>Miscellaneous</h4>
+                        <p><a href="/dm/miniquests.html">Miniquests</a></p>
+                        <p><a href="/dm/timeline.html">Timeline</a></p>
+                        <p><a href="{{ campaign.url }}">{{ campaign.title }}</a></p>
+
+                        <h4>Campaigns</h4>
+                        {% assign sorted_campaigns = site.campaigns | sort:"title" %}
+                        
+                        {% for campaign in sorted_campaigns %}
+                        
+                            <p><a href="{{ campaign.url }}">{{ campaign.title }}</a></p>
+                        
+                        {% endfor %}
+                    </td>
+
+                    <td class="rightColumn">
+                        {{ content }}
+                    </td>
+                </tr>
+            </table>
+            
+            {% include footer.html %}
+        </div>
+    </body>
+</html>

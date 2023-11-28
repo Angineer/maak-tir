@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+    {% include head.html %}
+
+    <body>
+        <div class="wrapper">
+            {% include header.html %}
+            
+            <table class="twoColumn">
+                <tr>
+                    <td class="leftColumn">
+                        <h4>Books</h4>
+                        <h4>Poetry</h4>
+                        <h4>Religion</h4>
+                    </td>
+
+                    <td class="rightColumn">
+                        {{ content }}
+                    </td>
+                </tr>
+            </table>
+            
+            {% include footer.html %}
+        </div>
+    </body>
+</html>

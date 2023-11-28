@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+    {% include head.html %}
+
+    <body>
+        <div class="wrapper">
+            {% include header.html %}
+            
+            <table class="twoColumn">
+                <tr>
+                    <td class="leftColumn">
+                        <h4>Groups</h4>
+                        {% assign sorted_groups = site.groups | sort:"title" %}
+                        
+                        {% for group in sorted_groups %}
+                        
+                            <p><a href="{{ group.url }}">{{ group.title }}</a></p>
+                        
+                        {% endfor %}
+
+                        <h4>NPCs</h4>
+                        <a href="https://airtable.com/shrXmssWTHVwFqtF0" target=”_blank”>Airtable</a>
+
+                        <h4>Characters</h4>
+                        {% assign sorted_characters = site.characters | sort:"title" %}
+                        
+                        {% for character in sorted_characters %}
+                        
+                            <p><a href="{{ character.url }}">{{ character.title }}</a></p>
+                        
+                        {% endfor %}
+                    </td>
+
+                    <td class="rightColumn">
+                        {{ content }}
+                    </td>
+                </tr>
+            </table>
+            
+            {% include footer.html %}
+        </div>
+    </body>
+</html>
