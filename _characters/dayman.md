@@ -1,0 +1,4 @@
+---
+title: Dayman
+layout: society
+---

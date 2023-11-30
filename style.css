@@ -18,6 +18,12 @@ td {
     width: fit-content;
 }
 
+.headshot {
+    float: right;
+    width: 40%;
+    margin: 10px;
+}
+
 .inactive-link {
     pointer-events: none;
     cursor: default;

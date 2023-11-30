@@ -1,0 +1,4 @@
+---
+title: Kira
+layout: society
+---

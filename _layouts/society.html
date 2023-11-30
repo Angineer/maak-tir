@@ -27,14 +27,14 @@
                         
                         {% for character in sorted_characters %}
                         
-                            <p><a href="{{ character.url }}">{{ character.title }}</a></p>
+                            <p><a href="{{ character.url }}" title="{{ character.description }}">{{ character.title }}</a></p>
                         
                         {% endfor %}
                     </td>
 
                     <td class="rightColumn">
                         {% if page.title != "Society" %}
-                            <h3>{{page.title}}</h3>
+                            <h3>{{page.title}}</h3> <em>{{ page.description }}</em>
                         {% endif %}
                         {{ content }}
                     </td>
