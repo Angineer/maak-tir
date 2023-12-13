@@ -2,7 +2,6 @@
 title: Souris Farm
 layout: dm
 ---
-<div style="white-space: pre-wrap;">
 Start
 
 An old, tattered posting on the town bulletin board in Smittyville, hidden behind newer flyers. The poster says:
