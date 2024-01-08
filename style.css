@@ -1,11 +1,32 @@
 a {
     color: #571014;
     text-decoration: none;
+    text-shadow: 0px 0px 0px transparent;
+    transition: text-shadow 0.75s ease-in-out;
 }
 
 a:visited {
     color: #571014;
     text-decoration: none;
+}
+
+a:hover {
+    color: #571014;
+    text-decoration: none;
+    text-shadow: 0px 0px 15px black;
+}
+
+body {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alone_in_the_unspoilt_wilderness_%28Unsplash%29.jpg/1280px-Alone_in_the_unspoilt_wilderness_%28Unsplash%29.jpg) no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    font-family: cursive;
+    font-size: 16pt;
+}
+
+h4 {
+    margin-bottom: 10px;
 }
 
 table {
@@ -17,15 +38,6 @@ table {
 td {
     vertical-align: top;
     text-align: left;
-}
-
-body {
-    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alone_in_the_unspoilt_wilderness_%28Unsplash%29.jpg/1280px-Alone_in_the_unspoilt_wilderness_%28Unsplash%29.jpg) no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-
-    font-family: cursive;
-    font-size: 16pt;
 }
 
 .header {
