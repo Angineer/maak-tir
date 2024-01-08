@@ -68,6 +68,17 @@ td {
     margin: 5px 0px;
 }
 
+.placeDataLeft {
+    font-weight: bold;
+}
+
+.placeTable {
+    border: 1px solid darkgrey;
+    float: right;
+    margin-left: 20px;
+    width: 40%;
+}
+
 .quest {
     padding-left: 10px;
     padding-right: 10px;

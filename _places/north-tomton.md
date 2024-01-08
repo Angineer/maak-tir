@@ -2,6 +2,12 @@
 title: North Tomton
 layout: places
 region: The Middlelands
+
+affiliation: Maak-Tir
+population: 50000
+government: Democratic Republic (satellite of Wy-Tir)
+nicknames: Union Town
+deity: Pelor
 ---
 South Tomton and North Tomton produce a large chunk of the capital’s goods. North Tomton specializes in clay and coal, which are mined on opposite sides of the city.
 
@@ -12,15 +18,11 @@ Lots of bath houses. The miners traditionally go there to clean off after a long
 The Union Building is an iconic building.
 The Clay Mines
 
-Who are the miners?
-
-    Union workers
+Who are the miners? Union workers
 
 Coal and Clay Barons?
 
-What is clay used for?
-
-    Pottery, bricks
+What is clay used for? Pottery, bricks
 
 The Coal Mines
 

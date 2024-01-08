@@ -28,6 +28,46 @@
                         {% if page.title != "Places" %}
                             <h3>{{page.title}}</h3>
                         {% endif %}
+                        {% if page.affiliation != nil %}
+                            <table class="placeTable">
+                                {% if page.affiliation %}
+                                    <tr>
+                                        <td class="placeDataLeft">Affiliation</td>
+                                        <td>{{page.affiliation}}</td>
+                                    </tr>
+                                {% endif %}
+                                {% if page.population %}
+                                    <tr>
+                                        <td class="placeDataLeft">Population</td>
+                                        <td>{{page.population}}</td>
+                                    </tr>
+                                {% endif %}
+                                {% if page.government %}
+                                    <tr>
+                                        <td class="placeDataLeft">Government</td>
+                                        <td>{{page.government}}</td>
+                                    </tr>
+                                {% endif %}
+                                {% if page.nicknames %}
+                                    <tr>
+                                        <td class="placeDataLeft">Nicknames</td>
+                                        <td>{{page.nicknames}}</td>
+                                    </tr>
+                                {% endif %}
+                                {% if page.founder %}
+                                    <tr>
+                                        <td class="placeDataLeft">Founded by</td>
+                                        <td>{{page.founder}}</td>
+                                    </tr>
+                                {% endif %}
+                                {% if page.deity %}
+                                    <tr>
+                                        <td class="placeDataLeft">Primary Deity</td>
+                                        <td>{{page.deity}}</td>
+                                    </tr>
+                                {% endif %}
+                            </table>
+                        {% endif %}
                         {{ content }}
                     </td>
                 </tr>
