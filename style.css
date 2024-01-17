@@ -1,8 +1,6 @@
 a {
     color: #571014;
     text-decoration: none;
-    text-shadow: 0px 0px 0px transparent;
-    transition: text-shadow 0.75s ease-in-out;
 }
 
 a:visited {
@@ -13,7 +11,6 @@ a:visited {
 a:hover {
     color: #571014;
     text-decoration: none;
-    text-shadow: 0px 0px 15px black;
 }
 
 body {
