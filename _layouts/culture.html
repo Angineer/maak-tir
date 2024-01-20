@@ -10,12 +10,16 @@
             <table class="twoColumn">
                 <tr>
                     <td class="leftColumn">
-                        <h4><a href="#poety">Poetry</a></h4>
-                        <h4><a href="#books">Books</a></h4>
-                        <h4><a href="#religion">Religion</a></h4>
+                        <h4>Books</h4>
+                        {% for book in site.books %}
+                            <p><a href="{{ book.url }}">{{ book.title }}</a></p>
+                        {% endfor %}
                     </td>
 
                     <td class="rightColumn">
+                        {% if page.title != "Culture" %}
+                            <h3>{{page.title}}</h3> <em>By {{ page.author }}</em>
+                        {% endif %}
                         {{ content }}
                     </td>
                 </tr>
