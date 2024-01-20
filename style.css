@@ -58,11 +58,15 @@ td {
 }
 
 .leftColumn {
-    width: 200px;
+    min-width: 20%;
 }
 
 .leftColumn p {
     margin: 5px 0px;
+}
+
+.rightColumn {
+
 }
 
 .placeDataLeft {
@@ -88,7 +92,6 @@ td {
     margin-left: auto;
     margin-right: auto;
     max-width: 1000px;
-    min-width: 400px;
     padding: 15px;
     text-align: center;
     width: 85%;
