@@ -18,8 +18,9 @@ body {
     background-attachment: fixed;
     background-size: cover;
 
-    font-family: cursive;
-    font-size: 16pt;
+    font-family: Junge, serif;
+    font-weight: bold;
+    font-size: 12pt;
 }
 
 h4 {
@@ -38,7 +39,7 @@ td {
 }
 
 .header {
-    font-size: 20pt;
+    font-size: 14pt;
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
@@ -62,7 +63,7 @@ td {
 }
 
 .leftColumn p {
-    margin: 5px 0px;
+    margin: 5px 5px 5px 0px;
 }
 
 .rightColumn {
