@@ -110,3 +110,13 @@ Once a bond is created between wielder and wielded, fighters should treat their 
 The Intellect and the Ego
 
 As is readily evident by now, there are many considerations for the burgeoning fighter. However, the very nature of such considerations should also be subject to the scrutiny of a successful warrior.
+
+<h2 id="religion">Religion</h2>
+### Major Deities
+Common in the Empire:
+- Pelor
+
+Common in the Wildlands:
+- Star-Beast
+- Desusyagr
+- Bowbahkar

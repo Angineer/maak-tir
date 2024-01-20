@@ -2,57 +2,39 @@
 title: Helmhold
 layout: places
 region: The Wildlands
+
+affiliation: Montrosia
+deity: Star Beast
 ---
-This map was drawn by adventurer Kit Thornton for an Imperial audience, embracing the dismissive moniker "Southern Wildlands".
+The Kalelani Tribe holds political control over most of Montrosia. Membership in this confederacy requires tithe of money and resources, but provides stability in an otherwise chaotic region of the world. Kalelani are famous for their drovers trained in Helmhold, the ostensive capital of the tribe. Fearsome disciplined allosaurus mounts of the Kalelani quiet most thoughts of aggression against protected villages. Its not just war that the value of Kalelani animal handling can offer its vassals. Stone mover team and units dedicated to road building and wall making help improve the lives of anyone flying the purple banner of the Southern King. As the source of their power, dinosaurs enjoy a deep respect in their culture.
 
-<img src="https://www.dropbox.com/scl/fi/jffqqc6c1a7l3ons6byy5/Wildlands_Map.PNG?rlkey=3qr3wnk6hihm08jmhl066x7ii&dl=0&raw=1" style="width:100%">
 
-Geography
-The Steel River
 
-The Steel River is a source of life for the Wildlands. Many species of fish can found in the Steel River, including River Frumps, Spotted Alaways, Bottle Trout, Striped Trout, Dinosaurfish, Pebble Fish, Sunfish, Rodfish (a.k.a. Water Birds).
+Titus Guyver
 
-The Steel River carries nutrient-rich soils from the foothills of the Maak Mountains to the river's mouth in Derelict. As it leaves the mountains and enters the plains, the river's passage slows and numerous meanders form. These slower regions create large wetlands in the valley between the Maak Mountains and the Backbone Mountains that are home to many different species. This prolific life attracts hunters and fishers. 
-Montrosia
+Still in his thirties, he is known for his brash attitude and promiscuity. Despite this he is a savvy politician and a capable fighter. He is also a controversial figure for his propensity for favoring diplomatic relations. Many Kalelani view the extra tithes this entails and the outside influence as dangerous precedent. This habit is best exemplified by the marriage of his daughter to a Prince of the Empire. Views of the most traditional Kalelani have shifted recently, as older allies like the Red Wings are seen as responsible for cattle theft and murder at the Great Dinosaur Race Massacre. Simultaneously, the ostracized Lizardfolk came to the Kalelani's aid at the event and continue to in its aftermath.
 
-A wide variety of human tribes and settlements refer to those lush marshlands and verdant hills around The Steel River as Montrosia, united by their mutual cultural respect and dependency on the abundant animal life. Near the source of the river, a subset of this designation, Trepsalam, describes both the inhospitable swamp, and equally inhospitable people that live there. Parasitic insects, enormous reptiles and hostile vegetation make it a hard place to live, but the presence of demons, devils and disreputable magic users are what makes it taboo to other residents of Montrosia.
-The Dark Scars
 
-The Dark Scars are deep canyons amongst otherwise flat grasslands. This name comes from Meloi legends about an ancient war where an angry god  cut deeply into the land itself during battle.
-The Petrified Forest
+Keira Guyver
 
-To the East of the Steel River lies a large forest of petrified trees. Not much live here and most people avoid it. Rumors abound that the condition of the tress is due to a curse put on the land long ago.
-The Cloud Conifers
+Keira is Titus' treasured counselor, especially for her forgiveness and permissiveness regarding Titus' marital transgressions. Her social savvy and reputation for brutal reprisals helps her maintain respect from all Kalelani. 
 
-A forest of enormous trees stands out from the surrounding grasslands. Some of the biggest specimens are called God-conifers by the indigenous wood elves that protect them. 
 
-Dinosaurs
+Mira Guyver
 
-Dinosaurs dominate the area called the "Wildlands", which lends to the popularity of the term in the Imperial North
+Daughter of Titus and Keira. Mira’s marriage to Prince Fortenboss has caused some friction among the more xenophopic of the Kalelani. Her sterling military reputation has lent legitimacy to relations with the empire.
 
-Many different types, some herded by the humanoid population, but even more roam wild
 
-    Kalelani drovers a famous for training beasts of burden like ceratopsians, sauropods.
+Ashra Guyver
 
-    Meloi nomads keeps vast herds of cattle, like gallimimus for food, particularly eggs.
+Daughter of Titus and Keira. Ashra is a strong nationalist and disdains her sister's union with Imperial royalty and has taken up the cause of Kalelani exceptionalism. 
 
-    Large raptor and even theropods as military mounts.
 
-On the proliferation of dinosaur species:
+Eaton Wex
 
-    Widespread campaigns of dinosaur hunters funded by the Empire drove extinctions in the North.
+Commander of Montrosia’s Rangers loved by all Kalelani. He exhibits the typical characteristics of a Ranger: Spartan, proud and quick to anger. Wex is special in that he is a lot smarter and more proactive than his predecessors. It was he that orchestrated the consolidation of No‐Eyes’ forces. This allowed the commander to broker peace with the Orc Chieftain, a rare but controversial feat. Despite these moves and unlike Titus, opinion of Eaton Wex is close to unanimous approval. He has made his name at a young age as one of the finest Rangers ever to have lived. Armies many time larger break under his strategy and word has spread far of the many great beasts he has slain.
 
-    Domestication  and conservation by "barbarian" nations which value them economically and culturally.
+Little is know of his wife who is cloistered at home with their infant son Paz.
 
-Politics
-Kalelani
 
-The name for the confederation under a monarchic control at the fortress Helmhold. The Kalelani have been in control of this loose government for many generations, but control over the ostensive capital connotes authority, hence the name "Helmhold", referring to the crown of the King. Tithes or food and labor are collected in exchange for military protection and sometime the esteemed service of well-trained dinosaur drovers.
-Meloi
-
-Varied Meloi tribes have in common a nomadic lifestyle herding dinosaurs and strict religious customs associated with the Temple of the Covenant. This monastic order worships a living figure called The Lord Messenger, the suppossed reincarnation of an ancient hero the unified the people and animals to fend of colonizing armies from the North.
-Dragonkin Riverfolk
-
-The nation of Lizardfolk that has spread proudly of recent years along the entirety of the Steel River proudly traces its ancestry to an ancient Red Dragon. The eponymous Dragon King has in recent years tried to pursue diplomatic relationships with the Kalelani and the Maak-Tir Empire, something the superstition of both powers complicates.
-Google Sites
-Report abuse
+Kanaan Kressler

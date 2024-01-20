@@ -2,9 +2,8 @@
 title: Greenfield
 layout: places
 region: The Middlelands
+
+affiliation: Maak-Tir
+nicknames: The Empire's Cornucopia
 ---
-The core of the Empire. Mostly civilized, so ecology is largely influenced by humanoid life. Temperate forestland, cities, open fields.
-
-Plants
-
-Jewel Flower: a flower that looks like it's made out of gemstones. It grows very slowly and requires careful tending. It takes 25 years to bloom the first time, and then it blooms once very 11 years.
+Greenfield is known for (and named after) its agricultural production. It is mostly made up of fields that supply the capital with the food needed to sustain its large population.
