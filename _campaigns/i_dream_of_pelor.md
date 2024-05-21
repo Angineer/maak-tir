@@ -92,8 +92,12 @@ Theme: [https://www.youtube.com/watch?v=8KgtGs1ny0k](https://www.youtube.com/wat
 
 ## The Fifth Artifact
 
-The fifth artifact is at the Boulder, a rugged prison built into the mountains near the Northern Pass.
+With four artifacts in your pack, the compass now directs you north--further north than you've traveled thus far. It takes you to the Boulder, a rugged prison built into the mountains near the Northern Pass.
+
+Buried deep within the prison is Bombadon's Helm. Lost in the throes of a deep undersea adventure, Bombadon assumed it was gone for good.
+
+Wearing the helm makes you appear friendly toward a particular type of enemy--maybe undead?
 
 ## The Sixth Artifact
 
-The sixth artifact is at Dagný Peak, hidden away by Boris Balderk to keep it out of the hands of pesky adventurers. It is Penelope's short sword.
+The sixth artifact is at Dagný Peak, hidden away by Boris Balderk to keep it out of the hands of pesky adventurers. It needs to be something that unites the party. Penelope's short sword? It should be something that gives you a weird but really cool ability.

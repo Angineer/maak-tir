@@ -20,52 +20,31 @@ Somewhere near the Steel River, his escort was mercilessly slaughtered by bandit
 
 Rex still prays to the sun every day, and sends individual messages of hope to Linda and all the kids. He receives visions of each one of them in his sleep, interpreting them very literally as messages from Anekphoniton Aidhios Agalliasis, a.k.a. Lucinda. Lucinda hasn't spoken directly to Rex since the disappearance. However, the celestial power manifested through his healing touch and searing bright lights from his hands and eyes serve as further signs of her presence and support.
 
+Trivia
+* Rex can't cook
 
-    Linda Mason, 47, Carpenter
-
+### Linda Mason, 47, Carpenter
 Children:
+* Charles, 28, Carpenter
+  * Partner of Chani, Baker
+  * Children:
+    * Vicenzo, 3
+    * Riley, 2
+* Leroy, 27, Carpenter
+  * Partner of Clarence, Cleric Bodyguard
+* Nancy, 23, Fisher
 
-    Charles, 28, Carpenter
-
-        Partner of Chani, Baker
-
-        Children:
-
-    Vicenzo, 3
-
-    Riley, 2
-
-    Leroy, 27, Carpenter
-
-        Partner of Clarence, Cleric Bodyguard
-
-    Nancy, 23, Fisher
-
-
-    Lucinda (Anekphoniton Aidhios Agalliasis)
-
+### Lucinda (Anekphoniton Aidhios Agalliasis)
 Children:
-
-    Henry, 21, Philanthropist with The Open House
-
-    Cindy, 20, Magistrate
-
-        Partner of Cabono Childress, Aristocrat
-
-        Children:
-
-    Diego, 2
-
-    Ranni, 1
-
-    Bruce, 19, Sailor, Former outlaw
-
-    Samuel, 18, Bard of the College of Lore
-
-    Theodore, 15
-
-    Lucinda May, 13
-
-    Brett, 10
-
-    Tanis, 7
+* Henry, 21, Philanthropist with The Open House
+* Cindy, 20, Magistrate
+  * Partner of Cabono Childress, Aristocrat
+  * Children:
+    * Diego, 2
+    * Ranni, 1
+* Bruce, 19, Sailor, Former outlaw
+* Samuel, 18, Bard of the College of Lore
+* Theodore, 15
+* Lucinda May, 13
+* Brett, 10
+* Tanis, 7

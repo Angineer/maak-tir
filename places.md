@@ -13,7 +13,9 @@ The core of the Empire. Mostly civilized, so ecology is largely influenced by hu
 
 ### Flora and Fauna
 
-Jewel Flower: a flower that looks like it's made out of gemstones. It grows very slowly and requires careful tending. It takes 25 years to bloom the first time, and then it blooms once very 11 years.
+Jewel Flower: A flower that looks like it's made out of gemstones. It grows very slowly and requires careful tending. It takes 25 years to bloom the first time, and then it blooms once very 11 years.
+
+Night Jellyfish: A fabled creature that is said to float around the foothills. It gives off a sparkly blue glow.
 
 ## The Wildlands
 This map was drawn by adventurer Kit Thornton for an Imperial audience, embracing the dismissive moniker "Southern Wildlands": <a href="https://www.dropbox.com/scl/fi/jffqqc6c1a7l3ons6byy5/Wildlands_Map.PNG?rlkey=3qr3wnk6hihm08jmhl066x7ii&dl=0&raw=1">Montrosia Map</a>
