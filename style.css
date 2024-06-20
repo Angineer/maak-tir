@@ -89,7 +89,8 @@ td {
 }
 
 .wrapper {
-    background: url("/img/parchment.jpg");
+    border: 30px solid;
+    border-image: url(img/parchment.png) 30 fill round;
     margin-left: auto;
     margin-right: auto;
     max-width: 1000px;
