@@ -2,7 +2,7 @@
 title: Places
 layout: places
 ---
-<a href="https://www.google.com/maps/d/embed?mid=1UcejqQPqUNK3dfYx7mcPTIVOan4&ehbc=2E312F">Map of Maak-Tir</a>
+<a href="https://dl.dropbox.com/scl/fi/t78i1z6yrfesxmpnqq46x/Maak-Tir.jpg?rlkey=p36njgisjbyhz1o7zjqslrzfk&st=bp7yhfvr&dl=0"><img class="headshot" src="img/maak_tir_small.jpg"></a>
 
 ## The Maak Mountains
 ### Flora and Fauna
