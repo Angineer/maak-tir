@@ -8,6 +8,30 @@ layout: places
 ### Flora and Fauna
 Queen's Flower: a small blue flower that grows high in the mountains. Named after Empress Consort Bethany, wife of Emperor Frederick (she preferred to be called "Queen").
 
+## The North
+The North sees long days in the summer and long nights in the winter. It is a land of snow and ice, where isolation and resiliance is a way of life.
+
+Gothic is a dominant architectural style in the North.
+
+Everything is just a little bit bigger in the North, including the humans.
+
+### Geography
+There is a lake in the North that stays frozen all year round due to the influence of a nearby magical stone structure. No one knows for sure why the lake is kept that way, but Northerners all know that it should not be disrupted.
+
+There are multiple glaciers in the North.
+
+### Religion
+See Frostburn gods
+
+### Flora and Fauna
+- Giant polar bear (think giant short-faced bear)
+- Saber tooth tiger
+- Wooly mammoths
+- Ground sloth
+- Remorhaz
+
+Vampires and the undead are more common in the North, perhaps because they are better preserved.
+
 ## The Middlelands
 The core of the Empire. Mostly civilized, so ecology is largely influenced by humanoid life. Temperate forestland, cities, open fields.
 
