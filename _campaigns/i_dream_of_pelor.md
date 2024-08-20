@@ -6,17 +6,15 @@ Players will unravel the story of Azor Amblecrown and Penelope Lightstone, two f
 
 While exploring a dungeon deep in the mountains, the party came across a demon torturing wayward travelers. He had made his way to the material plane via a mistake by a novice wizard, who opened a portal that let him slip through. Azor prepared a portal to the Nine Hells though which the party could expel the demon. But as he went through the portal, the demon grabbed Penelope.
 
-Azor tried to save her/bring her back but nothing he tried worked. He created spells just to bring her back. He became obsessed and it drove him insane. His last act was to imbue the artifacts with a strong spell that would be enabled when Penelope is nearby (relatively speaking). The spell acts as a kind of homing beacon to her and the artifacts emit a kind of "brightness" that is stronger the closer they are to her (granting advantage to various checks).
+Azor tried to save her/bring her back but nothing he tried worked. He created spells just to bring her back. He became obsessed and it drove him insane. In his final attempt, he gathered a small collection of items from the group's adventures. Tapping into the bond of friendship forged through the adventurers' long travels and tense battles, he imbued the artifacts with a spell that could guide him to Penelope. The spell acted as a kind of homing beacon to her, causing the artifacts to glow yellow as they get closer to her.
 
-A pair of demons in the Nine Hells got into a petty argument and Penelope became a bargaining chip. One of the demons trapped her inside a crystal orb so that he could hide her away from the other demon. To keep the orb secret, he decided to hide it in Shadowfell. Unfortunately for the demon, an enterprising adventurer found the orb and brought it back to the material plane with her, placing it inside Pelor's temple in Pelor Bay. Penelope's return has activated the artifacts and caught the attention of Pelor himself.
+Alas, Azor never managed to reconnect with Penelope. The tragedy under the mountain caused the party to split, the adventurers going their separate ways. Years later, a pair of demons in the Nine Hells got into a petty argument and Penelope became a bargaining chip. One of the demons trapped her inside a crystal orb so that he could hide her away from the other demon. To keep the orb secret, he decided to hide it in Shadowfell. Unfortunately for the demon, an enterprising adventurer found the orb and brought it back to the material plane with her, placing it inside Pelor's temple in Pelor Bay. Penelope's return has activated the artifacts and caught the attention of Pelor himself.
 
 Who is trying to use the artifacts for evil? How do they know about them? Well of course there were other members of the party, including the very greedy dwarf, Bombadon. His family has passed down the story of how Penelope disappeared with all his gold, and they want it back. They assume that the artifacts will let them travel to wherever Penelope is and get back what they feel is due. They are driven by their greed and will use the artifacts in whatever way is necessary to get their hands on more gold.
 
 A rival of Azor, Gilish, also has designs to capture the items. He is jealous of Azor's ability to create the brightness spell and wants the objects so that he can reverse-engineer it. He is still around because he is an elf, but he is getting old.
 
 And what does Pelor have to do with all of this? It's not really clear. He is a benevolent god, and Penelope is trapped at his temple. But why does he concern himself with this earthly matter? Is there a related conflict of a grander scale? Perhaps Pelor takes issue with the being that trapped Penelope? Or perhaps he just wants her soul to be at peace?
-
-Other wizard name ideas: Tootis, Metallica, Bomba, Ilio, Snortus
 
 ## A Vision of Pelor
 
@@ -72,9 +70,9 @@ Theme: [https://www.youtube.com/watch?v=KYpUld04UF0](https://www.youtube.com/wat
 
 ## The Fourth Artifact
 
-The compass points east, but, as you leave the city, you check again and it seems to point west. It appears that the fourth artifact is also located within Smittyville's city limits.
+As you turn a corner in the path and start to descend, the Great Arboretum opens up in front of you. Towering trees and unbelievable flowers overwhelm your senses.
 
-You meander through the crowded streets, puzzling over this unusual turn of events. Eventually, you end up at a curious lot. It contains a small home, but it is surrounded by beautiful, flowering gardens and a large glass greenhouse. You stand and take in the impressive greenery, then you notice a small gardener bent over, tending to the plants. As you approach and call out, the gardener stands up. You see that it is a male half-elf. He takes his time standing up, not because he's tired, but because he is very intentional about his movements. He looks old and his skin is leathery from the sun; you might even say he has a "weathered" appearance.
+Eventually, you end up at a cozy cabin surrounded by beautiful, flowering gardens. You stand and take in the impressive greenery, then you notice a small gardener bent over, tending to the plants. As you approach and call out, the gardener stands up. You see that it is a male half-elf. He takes his time standing up, not because he's tired, but because he is very intentional about his movements. He looks old and his skin is leathery from the sun; you might even say he has a "weathered" appearance.
 
 After explaining yourselves, he introduces himself as Ilio Carver. When you pull out the coin and show it to him, a look of amazement comes over him. "Where... where did you get that?" he asks. As you explain the story, he can hardly believe what he's hearing. He invites you inside and says that you have a lot to talk about.
 
@@ -82,22 +80,35 @@ After pouring some green tea, he begins to tell you about how his grandfather (a
 
 > *Bombadon minted that coin for my grandfather as a birthday present when he turned 100. My grandfather always treasured it as a symbol of their friendship. After the tragedy with Penelope, none of them knew what to do with themselves; my grandfather took to his gardening as a way to find peace. Eventually, they drifted apart and he didn't see the rest of the party for years, until one day Azor showed up at his doorstep. He told my grandfather that he was looking for artifacts for a new spell that he had created, one that might be able to reconnect them with Penelope. My grandfather reluctantly gave Azor that coin, thinking that it might help.*
 
-> *But the next day, Azor was gone, and no one in my family has seen the coin since then. I--honestly--can hardly believe that you found it. I thought it was lost forever in the ruins of wherever Azor spent his last days. Certainly not right here under my nose, in Smittyville.*
+> *But the next day, Azor was gone, and no one in my family has seen the coin since then. I--honestly--can hardly believe that you found it. I thought it was lost forever in the ruins of wherever Azor spent his last days.*
 
-Now that you have gained some insight into your quest, you remember the compass. Taking it out, it seems to be telling you that the next artifact is indeed somewhere in Ilio's house. In fact, it's in the greenhouse. The compass seems to be indicating that the next artifact is a pomegranate tree. Ilio tells you that this tree was one of his father's favorite plants and that the tree had never produced as much fruit as it has this year. Picking one of the pomegranates seems to satisfy the compass, as it bends off to the north as soon as the fruit is in your hand.
+Now that you have gained some insight into your quest, you remember the compass. Taking it out, it seems to be telling you that the next artifact is indeed somewhere in Ilio's house. As you all search around, watching the compass, you end up at a chest in the attic. Rummaging through the contents, it seems to be some old trinkets that belonged to the elder Ilio (including "MacGuffin's Guide to Treasure Hunting"). You narrow down the search to a gold ring on a chain. If you hold it in a fire, elvish text on the outside of the ring will appear that indicates its use: *Pierce Man's Facades*. The ring's wearer can see through walls. Object separated by thin walls appear clearly, while objects separated by thicker walls appear hazy.
 
-Eating a pomegranate seed will grant you a [random feat](https://docs.google.com/spreadsheets/d/1klc1iEww3EB4LJchfcnnrlnPbztUOH9qw0JB8xxQ2HQ/edit?usp=sharing). The effect lasts for a day and can only be used once per day.
-
-Theme: [https://www.youtube.com/watch?v=8KgtGs1ny0k](https://www.youtube.com/watch?v=8KgtGs1ny0k)
+Ilio is rather surprised to see the ring. No one in his family ever told him about it, and he had never gone through this box of his grandfather's old stuff.
 
 ## The Fifth Artifact
 
-With four artifacts in your pack, the compass now directs you north--further north than you've traveled thus far. It takes you to the Boulder, a rugged prison built into the mountains near the Northern Pass.
+With four artifacts in your pack, the compass now directs you to the cold north. It takes you to the Boulder, a rugged prison built into the mountains near the Northern Pass.
 
-Buried deep within the prison is Bombadon's Helm. Lost in the throes of a deep undersea adventure, Bombadon assumed it was gone for good.
+Within the prison is Gilish. He was arrested for something after he acquired the key but before he had the chance to use it (perhaps he never found the location of the hideout). He needs the gang to let him out so he can get the key and go raid the hideout.
 
-Wearing the helm makes you appear friendly toward a particular type of enemy--maybe undead?
+Artifact: A key to the gang's secret hideout in Maw.
 
 ## The Sixth Artifact
 
-The sixth artifact is at Dagný Peak, hidden away by Boris Balderk to keep it out of the hands of pesky adventurers. It needs to be something that unites the party. Penelope's short sword? It should be something that gives you a weird but really cool ability.
+The sixth artifact is at Dagný Peak, hidden away by Boris Balderk to keep it out of the hands of pesky adventurers.
+
+Artifact: The thing that they were seeking when they went on the adventure where Penelope was lost. It needs to be something that unites the party and gives you a weird but really cool ability.
+
+## Finale
+
+As you pick up the final artifact, you notice it starting to glow. At the same time, a gentle glow emanates from you backpack where you are keeping the other artifacts. Flipping open the pack, you see that all of the artifacts have started glowing with a soft yellow light.
+
+The compass now points to Pelor Bay. Should the group break/lose the compass at some point?
+
+## Other artifact ideas
+
+* Bombadon's Helm. Wearing the helm makes you appear friendly toward undead.
+* Bombadon's master key. It can be used to open any lock with a standard size keyhole.
+* A pomegranate. Easting a seed will grant you a [random feat](https://docs.google.com/spreadsheets/d/1klc1iEww3EB4LJchfcnnrlnPbztUOH9qw0JB8xxQ2HQ/edit?usp=sharing). The effect lasts for a day and can only be used once per day. Theme: [https://www.youtube.com/watch?v=8KgtGs1ny0k](https://www.youtube.com/watch?v=8KgtGs1ny0k)
+* A treasure map that leads you to the portal where Penelope was lost.
