@@ -13,3 +13,6 @@ Jo made a deal with Loviatar, the goddess of pain. In exchange for driving a kni
 Octavia’s heart shattered from experiencing such a betrayal from the person she trusted the most. Her gut-wrenching sobs shook the gods to their cores. Ilmater, the god of endurance, took pity and bestowed Octavia with a sacred quest. Octavia would dedicate herself to healing those who are suffering, guiding souls to their rest, and protecting the living from the horrors of treachery.
 
 Octavia now wanders Maak-Tir, seeking to protect others from the pain she has known. She has embraced the darkness within herself, finding beauty in the macabre and a strange comfort in death. She believes that death is not something to be feared but respected, and she uses her abilities to ensure that the dead are honored and the living are protected.
+
+Triva:
+- Octavia's favorite animals are otters
