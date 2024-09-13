@@ -96,7 +96,7 @@ After making your way past the guards, you search around the prison. Despite its
 
 You wind through the prison's many passages and eventually make your way down to the catacombs. Not many people are allowed to go down here, and you don't know why anyone would particularly want to (unless perhaps they had a fascination with death). The only sound to pierce the deafening silence is the occasional drip of water from the ceiling of the tunnel.
 
-The compass leads you to an unmarked tomb. Exhuming the body from within, you find the skeleton of a human (if you're crafty, you could figure out that it's Azor). Around his neck is a rusty chain and a brass key.
+The compass leads you to an unmarked tomb. Exhuming the body from within, you find the skeleton of a human (if you're crafty, you could figure out that it's Azor). Around his neck is a rusty chain and a bronze key in the shape of a raven.
 
 The key will open the door to the gang's secret hideout in Vylstrond.
 
