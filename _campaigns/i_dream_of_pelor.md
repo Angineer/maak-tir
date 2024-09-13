@@ -70,7 +70,7 @@ Theme: [https://www.youtube.com/watch?v=KYpUld04UF0](https://www.youtube.com/wat
 
 ## The Fourth Artifact
 
-As you turn a corner in the path and start to descend, the Great Arboretum opens up in front of you. Towering trees and unbelievable flowers overwhelm your senses.
+As you turn a corner in the path and start to descend, the Great Arboretum opens up in front of you. Towering trees and stunning flowers overwhelm your senses.
 
 Eventually, you end up at a cozy cabin surrounded by beautiful, flowering gardens. You stand and take in the impressive greenery, then you notice a small gardener bent over, tending to the plants. As you approach and call out, the gardener stands up. You see that it is a male half-elf. He takes his time standing up, not because he's tired, but because he is very intentional about his movements. He looks old and his skin is leathery from the sun; you might even say he has a "weathered" appearance.
 
@@ -82,27 +82,39 @@ After pouring some green tea, he begins to tell you about how his grandfather (a
 
 > *But the next day, Azor was gone, and no one in my family has seen the coin since then. I--honestly--can hardly believe that you found it. I thought it was lost forever in the ruins of wherever Azor spent his last days.*
 
-Now that you have gained some insight into your quest, you remember the compass. Taking it out, it seems to be telling you that the next artifact is indeed somewhere in Ilio's house. As you all search around, watching the compass, you end up at a chest in the attic. Rummaging through the contents, it seems to be some old trinkets that belonged to the elder Ilio (including "MacGuffin's Guide to Treasure Hunting"). You narrow down the search to a gold ring on a chain. If you hold it in a fire, elvish text on the outside of the ring will appear that indicates its use: *Pierce Man's Facades*. The ring's wearer can see through walls. Object separated by thin walls appear clearly, while objects separated by thicker walls appear hazy.
+Now that you have gained some insight into your quest, you remember the compass. Taking it out, it seems to be telling you that the next artifact is indeed somewhere in Ilio's house. As you all search around, watching the compass, you end up at a chest in the attic. Rummaging through the contents, it seems to be some old trinkets that belonged to the elder Ilio (including "MacGuffin's Guide to Treasure Hunting"). You narrow down the search to a gold ring on a chain. The ring is inscribed with a runic letter B. If you hold it in a fire, elvish text on the outside of the ring will appear that indicates its use: *Secrecy is an Illusion*. The ring's wearer can see through walls. Object separated by thin walls appear clearly, while objects separated by thicker walls appear hazy.
 
-Ilio is rather surprised to see the ring. No one in his family ever told him about it, and he had never gone through this box of his grandfather's old stuff.
+Ilio is rather surprised to see the ring. No one in his family ever told him about it, and he had never gone through this box of his grandfather's old stuff. You'll have to convince him to take the two artifacts with you.
+
+Theme: []()
 
 ## The Fifth Artifact
 
-With four artifacts in your pack, the compass now directs you to the cold north. It takes you to the Boulder, a rugged prison built into the mountains near the Northern Pass.
+With four artifacts in your pack, the compass now directs you to the cold north. It takes you to the Boulder, a rugged prison built into the mountains near the Northern Pass. Some of the most feared criminals in the Empire are kept within the Boulder's impenetrable rock walls.
 
-Within the prison is Gilish. He was arrested for something after he acquired the key but before he had the chance to use it (perhaps he never found the location of the hideout). He needs the gang to let him out so he can get the key and go raid the hideout.
+After making your way past the guards, you search around the prison. Despite its cold and unforgiving nature, the prison is a sprawling, well-equipped complex with all the facilities needed to support the inmates and staff.
 
-Artifact: A key to the gang's secret hideout in Maw.
+You wind through the prison's many passages and eventually make your way down to the catacombs. Not many people are allowed to go down here, and you don't know why anyone would particularly want to (unless perhaps they had a fascination with death). The only sound to pierce the deafening silence is the occasional drip of water from the ceiling of the tunnel.
+
+The compass leads you to an unmarked tomb. Exhuming the body from within, you find the skeleton of a human (if you're crafty, you could figure out that it's Azor). Around his neck is a rusty chain and a brass key.
+
+The key will open the door to the gang's secret hideout in Vylstrond.
+
+Theme: []()
 
 ## The Sixth Artifact
 
+Perhaps the compass doesn't work in Vylstrond? You have to find the hideout, get inside and then you realize that the artifact isn't there because it was hidden by Boris. Or Boris has been watching the hideout, unable to get inside because he didn't have the key (the door is scarred with the marks of his various attempts to break in.) The hideout should also be hidden behind a puzzle (that Boris has solved).
+
 The sixth artifact is at Dagný Peak, hidden away by Boris Balderk to keep it out of the hands of pesky adventurers.
+
+To acquire it, you will have to face off with Boris. Perhaps we could bring back an old character to help.
 
 Artifact: The thing that they were seeking when they went on the adventure where Penelope was lost. It needs to be something that unites the party and gives you a weird but really cool ability.
 
 ## Finale
 
-As you pick up the final artifact, you notice it starting to glow. At the same time, a gentle glow emanates from you backpack where you are keeping the other artifacts. Flipping open the pack, you see that all of the artifacts have started glowing with a soft yellow light.
+As you pick up the final artifact, you notice it starting to glow. At the same time, a gentle glow emanates from your backpack where you are keeping the other artifacts. Flipping open the pack, you see that all of the artifacts have started glowing with a soft yellow light.
 
 The compass now points to Pelor Bay. Should the group break/lose the compass at some point?
 
