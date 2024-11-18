@@ -34,3 +34,10 @@ Philosopher Garden
 
 The Royal Keep
 - Where the emperor sits on his throne
+
+### The Bar District
+The bar district is home to a sundry group of boozy establishments.
+
+The Cracked Sword
+- Food specialties include buffalo stew and pub munchies like cheese curds and fried potatoes
+- Has a large performance venue where groups such as Wolframite play

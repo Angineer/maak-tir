@@ -20,7 +20,7 @@ layout: dm
 * An army deserter needs help hiding from the search party that is tracking him.
 * A small cult is indoctrinating local folk with the promise of everlasting life. The leader convinces them to work for him and collects the proceeds for himself.
 * A scrappy band of protestors is planning to disrupt a church service where the emperor will be present with a shocking demonstration. They are protesting the subjugation of working people, especially women, for the benefit of the empire's
-* A wandering mystic promises to see into the future, for a small fee.
+* ✔️ A wandering mystic promises to see into the future, for a small fee.
 * A band of orcs is going on a raiding spree in the small towns near the mountains.
 * After hearing the news of Black Robert's capture, a few young upstarts are trying to fill the void he left behind.
 * A caravan is putting on a cabbage-themed traveling show.
@@ -38,7 +38,7 @@ Puzzles
 
 ### Hunters Canyon
 * There have been reports of a direduck in the hills around Hunters Canyon
-* The water supply has been tainted and it's making everyone in town sick. There a copper mine/refinery nearby that is dumping the waste into the stream.
+* ✔️ The water supply has been tainted and it's making everyone in town sick. There a copper mine/refinery nearby that is dumping the waste into the stream (kind of adapted this one for Summanus story).
 
 ### Oasis
 * ✔️ Herder's flock scattered during a storm, needs help recovering goats

@@ -13,6 +13,9 @@ description: heavy metal tiefling bard
 Trivia:
 - Hawk knows how to sew
 
-Hawk's favorite band is a Dwarven metal band called Stolen Valor. He traveled to see them play when he was younger, which partially inspired him to become an adventurer.
+Hawk's favorite band is a Dwarven metal band called Stolen Valor. He traveled to see them play when he was younger, which partially inspired him to become an adventurer. Some of their hits include:
+- Ride of the Valkyries
+- Back in Ultrablack
+- Are You Washed in the Blood
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7oMWaJbdKAbP91a082HxuW?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
