@@ -16,3 +16,4 @@ Octavia now wanders Maak-Tir, seeking to protect others from the pain she has kn
 
 Triva:
 - Octavia's favorite animals are otters
+- She likes to make homemade perfumes
