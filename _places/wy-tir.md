@@ -4,7 +4,7 @@ layout: places
 region: The Middlelands
 
 affiliation: Maak-Tir
-population: "250,000"
+population: 250000
 government: City Council
 nicknames: The Capital
 deity: Pelor
@@ -41,3 +41,6 @@ The bar district is home to a sundry group of boozy establishments.
 The Cracked Sword
 - Food specialties include buffalo stew and pub munchies like cheese curds and fried potatoes
 - Has a large performance venue where groups such as Wolframite play
+
+The Clock Tower
+- There is an old clock tower in the bar district that is a popular tourist destination

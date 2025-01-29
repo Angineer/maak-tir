@@ -17,3 +17,6 @@ A dwarf among humans is a difficult burden to live with. The first 50 years seem
 The petrified forest had a call to Oskar that was hard to describe, as if there was something calling in the rocks. So much seemed right. The cold stone of the forest and the fight to stay alive. But the solitude of the forest ultimately didn’t sooth the itch for combat. The life of a cleric or monk wasn’t for him.
 
 The occasional incursion into the forest went from being rather rare to quite common. When his favorite raptor-steed was killed by poachers, Oskar vowed to unleash the rage on those who would destroy the natural world. Although he has a desire for self-discovery, he holds a deep resentment towards other dwarfs because of the abandonment.
+
+Trivia
+- Oskar is fond of cats because they embody the essence of spies and warriors; he also thinks of himself as being a stray

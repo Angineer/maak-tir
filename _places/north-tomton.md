@@ -37,3 +37,5 @@ Folks from North Tomton just think of it as a deserted ghost town.
 
 ## Noodleball
 North Tomton has a thriving Noodleball obsession. There are multiple leagues throughout the city. The city is also bitter rivals with their neighbors South Tomton; most favor the North and see the South as an underdog.
+
+The big name Noodleball team in North Tomton is the Zitis.
