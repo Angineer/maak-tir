@@ -19,4 +19,7 @@ The petrified forest had a call to Oskar that was hard to describe, as if there 
 The occasional incursion into the forest went from being rather rare to quite common. When his favorite raptor-steed was killed by poachers, Oskar vowed to unleash the rage on those who would destroy the natural world. Although he has a desire for self-discovery, he holds a deep resentment towards other dwarfs because of the abandonment.
 
 Trivia
-- Oskar is fond of cats because they embody the essence of spies and warriors; he also thinks of himself as being a stray
+- Oskar is fond of cats because they embody the essence of spies and warriors; he also thinks of himself as being a stray. Oskar would train cats to catch poachers by rewarding them with treats for leading him to them.
+- Oskar's nickname is "throat biter"
+- Oskar was a nudist as a child, and continues this tradition sometimes as an adult
+- He likes drinking, but is very much a lightweight

@@ -12,6 +12,7 @@ description: heavy metal tiefling bard
 
 Trivia:
 - Hawk knows how to sew
+- Hawk likes painting but isn't very good at it
 
 Hawk's favorite band is a Dwarven metal band called Stolen Valor. He traveled to see them play when he was younger, which partially inspired him to become an adventurer. Some of their hits include:
 - Ride of the Valkyries

@@ -18,3 +18,7 @@ Triva:
 - Octavia's favorite animals are otters
 - She likes to make homemade perfumes
 - She loves reading romance novels
+- She likes collecting rocks because it makes her happy
+- Octavia loves cemeteries and likes attending funerals
+- Despire wearing blood-stained bandages, she is very hygenic
+- Her mother required everyone to pray to Pelor every morning and Octavia hated waking up early, so she has a strong negative association with the practice

@@ -22,6 +22,9 @@ Rex still prays to the sun every day, and sends individual messages of hope to L
 
 Trivia
 * Rex can't cook
+* When Rex uses his laser eyes, he can't see
+* He can read any languages (this happens via an angel, who sends the message to his son, who translates it)
+* When he was younger, Rex took part in a somewhat racist stage performance at the church where tieflings were depicted as tricksters/troublemakers. This created some internal conflict later in life when he started adventuring with a number of different tiefling companions.
 
 ### Linda Mason, 47, Carpenter
 Children:
