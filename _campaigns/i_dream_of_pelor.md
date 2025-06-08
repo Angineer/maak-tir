@@ -86,7 +86,7 @@ Now that you have gained some insight into your quest, you remember the compass.
 
 Ilio is rather surprised to see the ring. No one in his family ever told him about it, and he had never gone through this box of his grandfather's old stuff. You'll have to convince him to take the two artifacts with you.
 
-Theme: [https://www.youtube.com/watch?v=xtolv9kM1qk](https://www.youtube.com/watch?v=xtolv9kM1qk)
+Theme: [https://www.youtube.com/watch?v=DD3IZB0SGC4](https://www.youtube.com/watch?v=DD3IZB0SGC4)
 
 ## The Fifth Artifact
 
@@ -100,7 +100,7 @@ The compass leads you to an unmarked tomb. Exhuming the body from within, you fi
 
 The key will open the door to the gang's secret hideout in Vylstrond.
 
-Theme: []()
+Theme: [https://www.youtube.com/watch?v=lKcpodt0YCU](https://www.youtube.com/watch?v=lKcpodt0YCU)
 
 ## The Sixth Artifact
 
